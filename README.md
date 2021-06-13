@@ -115,8 +115,3 @@ https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
 https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
 https://raw.fastgit.org/freefq/free/master/v2
-https://cdn.jsdelivr.net/gh/colatiger/v2ray-nodes/proxy.md
-https://cdn.jsdelivr.net/gh/colatiger/v2ray-nodes/ss.md
-https://cdn.jsdelivr.net/gh/colatiger/v2ray-nodes/vmess.md
-https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
-https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
