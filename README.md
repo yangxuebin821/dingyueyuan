@@ -116,3 +116,4 @@ https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
 https://raw.fastgit.org/freefq/free/master/v2
 https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+https://etproxypool.cf/clash/proxies
