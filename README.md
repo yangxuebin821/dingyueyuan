@@ -117,3 +117,6 @@ https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
 https://raw.fastgit.org/freefq/free/master/v2
 https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
 https://etproxypool.cf/clash/proxies
+https://raw.githubusercontent.com/freefq/free/master/v2
+https://raw.githubusercontent.com/wrfree/free/main/v2
+https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity
