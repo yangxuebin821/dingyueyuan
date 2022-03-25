@@ -122,3 +122,8 @@ https://raw.githubusercontent.com/wrfree/free/main/v2
 https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity
 https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/proxy.md
 https://raw.fastgit.org/freefq/free/master/v2
+https://dweb.link/ipns/k51qzi5uqu5dlfnig6lej7l7aes2d5oed6a4435s08ccftne1hq09ac1bulz2f/node.txt
+https://dweb.link/ipns/k51qzi5uqu5dlfnig6lej7l7aes2d5oed6a4435s08ccftne1hq09ac1bulz2f/nodecn.txt
+https://dweb.link/ipns/k51qzi5uqu5dlfnig6lej7l7aes2d5oed6a4435s08ccftne1hq09ac1bulz2f/clash.yaml
+https://dweb.link/ipns/k51qzi5uqu5dlfnig6lej7l7aes2d5oed6a4435s08ccftne1hq09ac1bulz2f/openclash.yaml
+https://dweb.link/ipns/k51qzi5uqu5dlfnig6lej7l7aes2d5oed6a4435s08ccftne1hq09ac1bulz2f/clashnode.yaml
