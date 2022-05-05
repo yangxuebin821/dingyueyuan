@@ -129,3 +129,4 @@ https://dweb.link/ipns/k51qzi5uqu5dlfnig6lej7l7aes2d5oed6a4435s08ccftne1hq09ac1b
 https://dweb.link/ipns/k51qzi5uqu5dlfnig6lej7l7aes2d5oed6a4435s08ccftne1hq09ac1bulz2f/clashnode.yaml
 https://v2ray.neocities.org/v2ray.txt
 https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge.txt
+https://github.com/Pawdroid/Free-servers
