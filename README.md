@@ -121,3 +121,6 @@ https://github.com/Pawdroid/Free-servers
 https://ghproxy.com/https://raw.githubusercontent.com/yaney01/Yaney01/main/yaney_01
 https://github.com/mianfeifq/share
 https://github.com/alanbobs999/TopFreeProxies
+https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge.txt
+https://github.com/alanbobs999/TopFreeProxies
+https://v2cross.com/archives/1884
